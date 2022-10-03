@@ -1,3 +1,3 @@
-#time-series-prediction
+# time-series-prediction
 
-- Used ** XGBOOST MODEL **  to predict values and tuned parameters by trial to achieve an accuracy of 25.61
+- Used **XGBOOST MODEL**  to predict values and tuned parameters by trial to lower the RMSE to 25.61
